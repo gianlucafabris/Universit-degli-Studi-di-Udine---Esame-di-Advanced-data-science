@@ -1,0 +1,31 @@
+"0","library(dplyr)"
+"2","
+Caricamento pacchetto: ‘dplyr’
+
+"
+"2","I seguenti oggetti sono mascherati da ‘package:stats’:
+
+    filter, lag
+
+"
+"2","I seguenti oggetti sono mascherati da ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+"
+"0","library(ggraph)"
+"2","Caricamento del pacchetto richiesto: ggplot2
+"
+"0","library(tidygraph)"
+"2","
+Caricamento pacchetto: ‘tidygraph’
+
+"
+"2","Il seguente oggetto è mascherato da ‘package:stats’:
+
+    filter
+
+"
+"0","# setting the graph theme"
+"0","set_graph_style()"
+"0",""

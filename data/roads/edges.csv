@@ -1,0 +1,200 @@
+state1,county1,state2,county2
+Washington,Clark County,Oregon,Multnomah County
+Washington,Benton County,Oregon,Umatilla County
+Washington,Spokane County,Idaho,Kootenai County
+Oregon,Malheur County,Idaho,Payette County
+Oregon,Jackson County,California,Siskiyou County
+California,Sierra County,Nevada,Washoe County
+California,San Bernardino County,Nevada,Clark County
+California,San Bernardino County,Arizona,Mohave County
+California,Riverside County,Arizona,La Paz County
+California,Imperial County,Arizona,Yuma County
+Nevada,Clark County,Arizona,Mohave County
+Nevada,Elko County,Utah,Tooele County
+Arizona,Mohave County,Utah,Washington County
+Idaho,Oneida County,Utah,Box Elder County
+Idaho,Shoshone County,Montana,Mineral County
+Idaho,Clark County,Montana,Beaverhead County
+Montana,Big Horn County,Wyoming,Sheridan County
+Wyoming,Uinta County,Utah,Summit County
+Utah,Grand County,Colorado,Mesa County
+Wyoming,Laramie County,Colorado,Weld County
+Arizona,Apache County,New Mexico,McKinley County
+Arizona,Cochise County,New Mexico,Hidalgo County
+Montana,Wibaux County,North Dakota,Golden Valley County
+North Dakota,Richland County,South Dakota,Roberts County
+Wyoming,Crook County,South Dakota,Lawrence County
+Wyoming,Laramie County,Nebraska,Kimball County
+Colorado,Sedgwick County,Nebraska,Deuel County
+Colorado,Kit Carson County,Kansas,Sherman County
+Kansas,Sumner County,Oklahoma,Kay County
+Colorado,Las Animas County,New Mexico,Colfax County
+New Mexico,Quay County,Texas,Deaf Smith County
+New Mexico,Doña Ana  County,Texas,El Paso County
+Oklahoma,Beckham County,Texas,Wheeler County
+Oklahoma,Cotton County,Texas,Wichita County
+Oklahoma,Love County,Texas,Cooke County
+Oklahoma,Bryan County,Texas,Grayson County
+North Dakota,Cass County,Minnesota,Clay County
+South Dakota,Minnehaha County,Minnesota,Rock County
+South Dakota,Union County,Iowa,Woodbury County
+Nebraska,Dakota County,Iowa,Woodbury County
+Minnesota,Freeborn County,Iowa,Worth County
+Nebraska,Douglas County,Iowa,Pottawattamie County
+Iowa,Fremont County,Missouri,Atchison County
+Iowa,Decatur  County,Missouri,Harrison County
+Kansas,Doniphan County,Missouri,Buchanan County
+Kansas,Wyandotte County,Missouri,Platte County
+Kansas,Wyandotte County,Missouri,Clay County
+Kansas,Wyandotte County,Missouri,Jackson County
+Kansas,Johnson County,Missouri,Jackson County
+Oklahoma,Ottawa County,Missouri,Newton County
+Missouri,McDonald County,Arkansas,Benton County
+Missouri,Pemiscot County,Arkansas,Mississippi County
+Oklahoma,Sequoyah County,Arkansas,Crawford County
+Oklahoma,LeFlore County,Arkansas,Sebastian County
+Texas,Bowie County,Arkansas,Miller County
+Arkansas,Miller County,Louisiana,Caddo Parish
+Texas,Harrison County,Louisiana,Caddo Parish
+Texas,Orange County,Louisiana,Calcasieu Parish
+Minnesota,Saint Louis County,Wisconsin,Douglas County
+Minnesota,Washington County,Wisconsin,Saint Croix County
+Minnesota,Winona County,Wisconsin,La Crosse County
+Iowa,Dubuque County,Wisconsin,Grant County
+Wisconsin,Rock County,Illinois,Winnebago County
+Wisconsin,Kenosha County,Illinois,Lake County
+Iowa,Scott County,Illinois,Rock Island County
+Iowa,Des Moines County,Illinois,Henderson County
+Missouri,Marion County,Illinois,Pike County
+Missouri,Saint Louis City,Illinois,Madison County
+Missouri,Saint Louis City,Illinois,Saint Clair County
+Missouri,Saint Louis County,Illinois,Monroe County
+Missouri,Mississippi County,Illinois,Alexander County
+Illinois,Cook County,Indiana,Lake County
+Michigan,Berrien County,Indiana,LaPorte County
+Michigan,Berrien County,Indiana,Saint Joseph County
+Michigan,Branch County,Indiana,Steuben County
+Illinois,Vermilion County,Indiana,Vermillion County
+Illinois,Clark County,Indiana,Vigo County
+Illinois,Lawrence County,Indiana,Knox County
+Illinois,White County,Indiana,Posey County
+Illinois,Massac County,Kentucky,McCracken County
+Indiana,Floyd County,Kentucky,Jefferson County
+Indiana,Clark County,Kentucky,Jefferson County
+Indiana,Dearborn County,Kentucky,Boone County
+Tennessee,Obion County,Kentucky,Fulton County
+Tennessee,Montgomery County,Kentucky,Christian County
+Tennessee,Robertson County,Kentucky,Simpson County
+Tennessee,Campbell County,Kentucky,Whitley County
+Tennessee,Dyer County,Missouri,Pemiscot County
+Tennessee,Shelby County,Arkansas,Crittenden County
+Mississippi,DeSoto County,Tennessee,Shelby County
+Tennessee,Fayette County,Mississippi,Marshall County
+Louisiana,Madison Parish,Mississippi,Warren County
+Louisiana,Tangipahoa Parish,Mississippi,Pike County
+Louisiana,St. Tammany Parish,Mississippi,Pearl River County
+Louisiana,St. Tammany Parish,Mississippi,Hancock County
+Ohio,Lucas County,Michigan,Monroe County
+Indiana,Steuben County,Ohio,Williams County
+Indiana,Allen County,Ohio,Paulding County
+Indiana,Wayne County,Ohio,Preble County
+Indiana,Dearborn County,Ohio,Hamilton County
+Kentucky,Boone County,Ohio,Hamilton County
+Kentucky,Kenton County,Ohio,Hamilton County
+Kentucky,Campbell County,Ohio,Hamilton County
+Tennessee,Giles County,Alabama,Limestone County
+Mississippi,Itawamba County,Alabama,Marion County
+Mississippi,Lowndes County,Alabama,Pickens County
+Mississippi,Lauderdale County,Alabama,Sumter County
+Mississippi,Jackson County,Alabama,Mobile County
+Tennessee,Hamilton County,Georgia,Dade County
+Alabama,DeKalb County,Georgia,Dade County
+Tennessee,Hamilton County,Georgia,Catoosa County
+Alabama,Cleburne County,Georgia,Haralson County
+Alabama,Chambers County,Georgia,Harris County
+Alabama,Russell  County,Georgia,Muscogee County
+Florida,Escambia County,Alabama,Baldwin  County
+Florida,Hamilton County,Georgia,Lowndes County
+Florida,Nassau County,Georgia,Camden County
+South Carolina,Jasper County,Georgia,Effingham County
+South Carolina,Aiken County,Georgia,Richmond County
+South Carolina,Oconee County,Georgia,Hart County
+North Carolina,Robeson County,South Carolina,Dillon County
+North Carolina,Mecklenburg County,South Carolina,York County
+North Carolina,Cleveland County,South Carolina,Cherokee County
+North Carolina,Polk County,South Carolina,Spartanburg County
+North Carolina,Henderson County,South Carolina,Greenville County
+North Carolina,Haywood County,Tennessee,Cocke County
+North Carolina,Madison County,Tennessee,Unicoi County
+Virginia,Greensville County,North Carolina,Northampton County
+Virginia,Mecklenburg County,North Carolina,Warren County
+Virginia,Pittsylvania County,North Carolina,Caswell County
+Virginia,Danville County,North Carolina,Caswell County
+Virginia,Carroll County,North Carolina,Surry County
+Virginia,Washington County,Tennessee,Sullivan County
+Virginia,Scott County,Tennessee,Sullivan County
+Virginia,Buchanan County,Kentucky,Pike County
+West Virginia,Greenbrier County,Virginia,Alleghany County
+West Virginia,Mercer County,Virginia,Bland County
+West Virginia,Wayne County,Kentucky,Boyd County
+West Virginia,Mason County,Ohio,Gallia County
+West Virginia,Wood County,Ohio,Washington County
+Virginia,Frederick County,West Virginia,Berkeley County
+West Virginia,Ohio County,Ohio,Belmont County
+West Virginia,Brooke County,Ohio,Jefferson County
+West Virginia,Hancock County,Ohio,Columbiana County
+Virginia,Arlington County,Washington District of Columbia,District of Columbia
+Virginia,Alexandria,Washington District of Columbia,District of Columbia
+Maryland,Prince George's County,Washington District of Columbia,District of Columbia
+Virginia,Fairfax County,Maryland,Montgomery County
+West Virginia,Berkeley County,Maryland,Washington County
+West Virginia,Preston County,Maryland,Garrett County
+Delaware,New Castle County,Maryland,Cecil County
+Delaware,New Castle County,New Jersey,Salem County
+Delaware,New Castle County,Pennsylvania,Delaware County
+Pennsylvania,Delaware County,New Jersey,Salem County
+Pennsylvania,Philadelphia County,New Jersey,Camden County
+Pennsylvania,Bucks County,New Jersey,Burlington County
+Pennsylvania,Bucks County,New Jersey,Mercer County
+Pennsylvania,Bucks County,New Jersey,Hunterdon County
+Pennsylvania,Northampton County,New Jersey,Warren County
+Pennsylvania,Monroe County,New Jersey,Warren County
+Maryland,Baltimore County,Pennsylvania,York County
+Maryland,Frederick County,Pennsylvania,Adams County
+Maryland,Washington County,Pennsylvania,Franklin County
+Maryland,Washington County,Pennsylvania,Fulton County
+West Virginia,Monongalia County,Pennsylvania,Greene County
+West Virginia,Ohio County,Pennsylvania,Washington County
+West Virginia,Brooke County,Pennsylvania,Washington County
+Ohio,Mahoning County,Pennsylvania,Lawrence County
+Ohio,Trumbull County,Pennsylvania,Mercer County
+Ohio,Ashtabula County,Pennsylvania,Erie County
+New York,Richmond County,New Jersey,Middlesex County
+New York,Richmond County,New Jersey,Union County
+New York,Richmond County,New Jersey,Hudson County
+New York,New York County,New Jersey,Hudson County
+New York,New York County,New Jersey,Bergen County
+New York,Rockland County,New Jersey,Bergen County
+Pennsylvania,Pike County,New York,Orange County
+New York,Broome County,Pennsylvania,Susquehanna County
+Pennsylvania,Bradford County,New York,Tioga County
+Pennsylvania,Bradford County,New York,Chemung County
+Pennsylvania,Tioga County,New York,Steuben County
+Pennsylvania,McKean County,New York,Cattaraugus County
+Pennsylvania,Erie County,New York,Chautauqua County
+New Hampshire,Rockingham County,Maine,York County
+Vermont,Caledonia County,New Hampshire,Grafton County
+Vermont,Windsor County,New Hampshire,Grafton County
+Connecticut,Western Connecticut Planning Region,New York,Putnam County
+Connecticut,Western Connecticut Planning Region,New York,Westchester County
+Connecticut,Southeastern Connecticut Planning Region,Rhode Island,South County
+Massachusetts,Berkshire County,New York,Columbia County
+Massachusetts,Hampden County,Connecticut,Capitol Planning Region
+Massachusetts,Hampden County,Connecticut,Northeastern Connecticut Planning Region
+Massachusetts,Worcester County,Connecticut,Northeastern Connecticut Planning Region
+Massachusetts,Worcester County,Rhode Island,Providence County
+Massachusetts,Bristol County,Rhode Island,Providence County
+Massachusetts,Bristol County,Rhode Island,Newport County
+Massachusetts,Franklin County,Vermont,Windham County
+Massachusetts,Middlesex County,New Hampshire,Hillsborough County
+Massachusetts,Essex County,New Hampshire,Rockingham County

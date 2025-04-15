@@ -1,0 +1,5 @@
+"0","print(""componenti: numero componenti"", r_con$components$no, ""la più grande raggiunge il"", round(max(r_con$components$csize)/vcount(roads)*100, 2), ""% nodi"")
+"
+"2","Errore in print.default(""componenti: numero componenti"", r_con$components$no,  : 
+  128 cifre di stampa non valide
+"

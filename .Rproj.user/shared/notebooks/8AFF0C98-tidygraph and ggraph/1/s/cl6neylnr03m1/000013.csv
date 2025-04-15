@@ -1,0 +1,4 @@
+"1","
+"
+"0","# extract node data frame from the graph"
+"0","as.list(dolphin)$nodes"

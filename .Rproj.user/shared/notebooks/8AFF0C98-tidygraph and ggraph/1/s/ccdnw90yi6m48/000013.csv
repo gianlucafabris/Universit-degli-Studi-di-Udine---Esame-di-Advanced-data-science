@@ -1,0 +1,19 @@
+"0",""
+"0","# add edge type"
+"0","edges = "
+"0","  edges %>% "
+"0","  mutate(type = sample(c(""love"", ""friendship""), "
+"0","                       nrow(edges), "
+"0","                       replace = TRUE) )"
+"0",""
+"0","# make a tidy graph"
+"0","dolphin = tbl_graph(nodes = nodes, edges = edges, directed = FALSE)"
+"0","dolphin"
+"1","[38;5;246m# A tbl_graph: 62 nodes and 159 edges
+[39m"
+"1","[38;5;246m#
+[39m"
+"1","[38;5;246m# An undirected simple graph with 1 component
+[39m"
+"1","[38;5;246m#
+[39m"

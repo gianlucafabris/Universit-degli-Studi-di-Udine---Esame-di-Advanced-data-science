@@ -1,0 +1,7 @@
+"0",""
+"0","# cut dendrogram at 2 clusters"
+"0","clusters = cutree(r_cl$result[[1]], k = 2)"
+"0",""
+"0","# plot graph with clusters"
+"0","coords = layout_with_fr(roads)"
+"0","plot(roads, vertex.color=clusters, layout=coords)"

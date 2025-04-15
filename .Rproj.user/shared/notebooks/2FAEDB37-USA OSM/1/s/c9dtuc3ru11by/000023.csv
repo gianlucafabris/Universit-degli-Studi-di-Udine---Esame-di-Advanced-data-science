@@ -1,0 +1,14 @@
+"0","rbs_c %>%"
+"0","  ggplot(aes(x=state, y=betweenness)) +"
+"0","    geom_boxplot(color=""#6B9EE1"") +"
+"0","    geom_point(data = rbs_c %>% group_by(state) %>% summarize(mean_betweenness = mean(betweenness)), aes(x = state, y = mean_betweenness, group = 1), color = ""#86F5FA"") + "
+"0","    scale_y_continuous() +"
+"0","    labs(title = ""Centalità grafi per stato"", x = ""Stato"", y = ""Betweenness"") +"
+"0","    theme_minimal() +"
+"0","    theme(axis.text.x=element_text(color=""#000000"", angle = 90, vjust = 0.5, hjust = 1), axis.text.y=element_text(color=""#000000""), axis.line=element_line(color=""#000000""), panel.background=element_rect(fill=""#ffffff""), panel.grid.major.x=element_line(colour=""#ebebeb""), panel.grid.major.y=element_line(colour=""#ebebeb""), plot.title=element_text(size=rel(1.5)))"
+"2","Avvertimento:"
+"2"," [38;5;250mRemoved 2 rows containing non-finite outside the scale range (`stat_boxplot()`).[39m
+"
+"2","Avvertimento:"
+"2"," [38;5;250mRemoved 2 rows containing missing values or values outside the scale range (`geom_point()`).[39m
+"

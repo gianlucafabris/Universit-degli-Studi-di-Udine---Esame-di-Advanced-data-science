@@ -1,0 +1,5 @@
+"0",""
+"0","# cut dendrogram at different heights"
+"0","clusters = cutree(r_cl$result[[1]], k = 2:(vcount(g)/2))"
+"2","Errore: oggetto 'g' non trovato
+"

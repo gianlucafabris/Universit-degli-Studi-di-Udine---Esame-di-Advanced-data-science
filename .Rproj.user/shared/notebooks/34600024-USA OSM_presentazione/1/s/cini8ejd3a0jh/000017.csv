@@ -1,0 +1,8 @@
+"0",""
+"0",""
+"0","data.frame(distD = r_p$distD) %>%"
+"0","  ggplot(aes(x = distD)) +"
+"0","    geom_histogram(binwidth = 1, fill = ""#6B9EE1"", color = ""black"") +"
+"0","    labs(title = ""USA - distribuzione distanze"", x = ""Distanza"", y = ""Frequenza"") +"
+"0","    theme_minimal() +"
+"0","    theme(axis.text.x=element_text(color=""#000000""), axis.text.y=element_text(color=""#000000""), axis.line=element_line(color=""#000000""), panel.background=element_rect(fill=""#ffffff""), panel.grid.major.x=element_line(colour=""#ebebeb""), panel.grid.major.y=element_line(colour=""#ebebeb""), plot.title=element_text(size=rel(1.5)))"

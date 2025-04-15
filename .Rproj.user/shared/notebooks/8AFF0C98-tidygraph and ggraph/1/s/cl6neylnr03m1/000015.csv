@@ -1,0 +1,2 @@
+"0","# extract edge data frame from the graph"
+"0","as.list(dolphin)$edges"

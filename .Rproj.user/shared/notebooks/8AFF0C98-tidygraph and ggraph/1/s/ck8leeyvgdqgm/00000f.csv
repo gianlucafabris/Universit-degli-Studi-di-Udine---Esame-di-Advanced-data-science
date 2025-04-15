@@ -1,0 +1,21 @@
+"0","dolphin = "
+"0","  dolphin %>% "
+"0","  activate(nodes) %>% "
+"0","  mutate(degree = centrality_degree()) %>% "
+"0","  filter(degree > 0) %>% "
+"0","  arrange(-degree) %>% "
+"0","  activate(edges) %>% "
+"0","  mutate(betweenness = centrality_edge_betweenness(), "
+"0","         # .N() gets the nodes data from edge you're accessing"
+"0","         homo = (.N()$sex[from] == .N()$sex[to])) %>% "
+"0","  arrange(-betweenness)"
+"0",""
+"0","dolphin"
+"1","[38;5;246m# A tbl_graph: 62 nodes and 159 edges
+[39m"
+"1","[38;5;246m#
+[39m"
+"1","[38;5;246m# An undirected simple graph with 1 component
+[39m"
+"1","[38;5;246m#
+[39m"

@@ -1,0 +1,7 @@
+"0","# facet edges by type"
+"0","ggraph(dolphin) + "
+"0","  geom_edge_link(aes(color = type)) + "
+"0","  geom_node_point() +"
+"0","  facet_edges(~type)"
+"1","[38;5;250mUsing [34m""stress""[38;5;250m as default layout[39m
+"

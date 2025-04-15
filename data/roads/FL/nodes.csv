@@ -1,0 +1,50 @@
+county,id,city_name,lat,lon
+Orange County,389011,Orlando,28.5421109,-81.3790304
+Seminole County,389022,Sanford,28.8117345,-81.2680223
+Osceola County,389023,Kissimmee,28.2918995,-81.4075838
+Brevard County,389024,Titusville,28.6126236,-80.8079545
+Volusia County,389025,DeLand,29.0281051,-81.3034183
+Lake County,389026,Tavares,28.8021812,-81.731332
+Madison County,1210685,Madison,30.4693772,-83.4129254
+Jackson County,1210687,Marianna,30.7743596,-85.2268735
+Saint Johns County,1210689,Saint Augustine,29.8946952,-81.3145395
+Manatee County,1210690,Bradenton,27.4989278,-82.5748194
+Okaloosa County,1210691,Crestview,30.7621326,-86.5705084
+Miami-Dade County,1210692,Miami,25.7741728,-80.19362
+DeSoto County,1210695,Arcadia,27.2158826,-81.8584164
+Saint Lucie County,1210696,Fort Pierce,27.4467056,-80.3256056
+Gadsden County,1210697,Quincy,30.5889265,-84.5762388
+Martin County,1210698,Stuart,27.197983,-80.2519175
+Hernando County,1210700,Brooksville,28.5552719,-82.3878709
+Hillsborough County,1210701,Tampa,27.9477595,-82.458444
+Collier County,1210705,Naples,26.1421976,-81.7942944
+Santa Rosa County,1210706,Milton,30.6324149,-87.0396881
+Pasco County,1210707,Dade City,28.3647248,-82.1959178
+Indian River County,1210711,Vero Beach,27.6387163,-80.3975399
+Bradford County,1210713,Starke,29.9443549,-82.1101114
+Broward County,1210714,Fort Lauderdale,26.1223084,-80.1433786
+Clay County,1210715,Green Cove Springs,29.9919779,-81.6781097
+Walton County,1210716,DeFuniak Springs,30.7210227,-86.1152184
+Duval County,1210719,Jacksonville,30.3321838,-81.655651
+Nassau County,1210720,Fernandina Beach,30.6696818,-81.4625919
+Charlotte County,1210722,Punta Gorda,26.9351529,-82.0512058
+Marion County,1210723,Ocala,29.1871986,-82.1400923
+Lee County,1210725,Fort Myers,26.640628,-81.8723084
+Pinellas County,1210726,Clearwater,27.9658533,-82.8001026
+Suwannee County,1210730,Live Oak,30.2961892,-82.9842885
+Jefferson County,1210732,Monticello,30.5452022,-83.8701636
+Columbia County,1210733,Lake City,30.1894252,-82.6394803
+Sarasota County,1210734,Sarasota,27.3365805,-82.5308545
+Baker County,1210735,Macclenny,30.2821807,-82.1220569
+Leon County,1210736,Tallahassee,30.4380832,-84.2809332
+Escambia County,1210737,Pensacola,30.421309,-87.2169149
+Alachua County,1210739,Gainesville,29.6519684,-82.3249846
+Citrus County,1210740,Inverness,28.8358176,-82.3303715
+Hamilton County,1210742,Jasper,30.5182727,-82.94819
+Okeechobee County,1210747,Okeechobee,27.2436957,-80.8287487
+Palm Beach County,1210748,West Palm Beach,26.715364,-80.0532942
+Flagler County,1210749,Bunnell,29.4657731,-81.2576832
+Holmes County,1210750,Bonifay,30.7918559,-85.6796533
+Washington County,1210751,Chipley,30.7818584,-85.538541
+Sumter County,1210752,Bushnell,28.6644827,-82.1117399
+Polk County,1214525,Bartow,27.8963791,-81.8431567

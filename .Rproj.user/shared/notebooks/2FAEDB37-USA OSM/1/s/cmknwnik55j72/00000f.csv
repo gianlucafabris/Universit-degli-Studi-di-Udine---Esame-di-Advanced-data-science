@@ -1,0 +1,7 @@
+"0","r_m = motif(roads)"
+"0",""
+"0","print(paste(""motivi: transitività"", round(r_m$transitivity[1],2)))"
+"1","[1]"
+"1"," ""motivi: transitività 0.13"""
+"1","
+"

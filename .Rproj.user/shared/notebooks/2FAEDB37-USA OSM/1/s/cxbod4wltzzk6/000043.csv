@@ -1,0 +1,6 @@
+"0",""
+"0","ggraph(roads, layout = 'manual', x = roads_nodes$x, y = roads_nodes$y) +"
+"0","  geom_edge_link(aes(width = 1), alpha = 0.6) +"
+"0","  geom_node_point() +"
+"0","  theme_minimal()"
+"0",""

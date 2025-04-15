@@ -1,0 +1,5 @@
+"0","r_a = assortativita(roads, as.numeric(factor(vertex.attributes(roads)$state)), degree(roads))"
+"0",""
+"0","XXXXXXXXXXXXXXXXXXXXXXXXX"
+"2","Errore: oggetto 'XXXXXXXXXXXXXXXXXXXXXXXXX' non trovato
+"

@@ -1,0 +1,38 @@
+"0","library(tidyverse)"
+"1","── [1mAttaching core tidyverse packages[22m ────────────────────────────────────────────────────────────────────────── tidyverse 2.0.0 ──
+[32m✔[39m [34mforcats  [39m 1.0.0     [32m✔[39m [34mtibble   [39m 3.2.1
+[32m✔[39m [34mlubridate[39m 1.9.3     
+"
+"1","── [1mConflicts[22m ──────────────────────────────────────────────────────────────────────────────────────────── tidyverse_conflicts() ──
+[31m✖[39m [34mlubridate[39m::[32m%--%()[39m       masks [34migraph[39m::%--%()
+[31m✖[39m [34mtibble[39m::[32mas_data_frame()[39m masks [34migraph[39m::as_data_frame(), [34mdplyr[39m::as_data_frame()
+[31m✖[39m [34migraph[39m::[32mcompose()[39m       masks [34mpurrr[39m::compose()
+[31m✖[39m [34migraph[39m::[32mcrossing()[39m      masks [34mtidyr[39m::crossing()
+[31m✖[39m [34mtidygraph[39m::[32mfilter()[39m     masks [34mdplyr[39m::filter(), [34mstats[39m::filter()
+[31m✖[39m [34mdplyr[39m::[32mlag()[39m            masks [34mstats[39m::lag()
+[31m✖[39m [34migraph[39m::[32msimplify()[39m      masks [34mpurrr[39m::simplify()
+[36mℹ[39m Use the ]8;;http://conflicted.r-lib.org/conflicted package]8;; to force all conflicts to become errors
+"
+"0","library(igraph)"
+"0","library(ggraph)"
+"0","g = make_graph(""Zachary"")"
+"0",""
+"0","# similarity matrix"
+"0","A = as_adjacency_matrix(g)"
+"0","alpha = 0.85 / max(abs(eigen(A)$values))"
+"0","I = diag(1, vcount(g))"
+"0","S = solve(I - alpha * A)"
+"0","S = S - diag(diag(S))"
+"0",""
+"0","# similarity graph"
+"0","s = graph_from_adjacency_matrix(S, mode = ""undirected"", weighted = TRUE)"
+"0","V(s)$name = 1:vcount(s)"
+"0",""
+"0","ggraph(s, layout = ""circle"") + "
+"0","  geom_edge_link(aes(alpha = weight, "
+"0","                     filter = (weight > quantile(weight, 0.9)))) + "
+"0","  geom_node_point() +"
+"0","  geom_node_text(aes(label = name, x = x * 1.05, y = y * 1.05)) + "
+"0","  theme_graph() +"
+"0","  coord_fixed()"
+"0",""

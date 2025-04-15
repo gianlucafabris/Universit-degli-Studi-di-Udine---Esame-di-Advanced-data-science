@@ -1,0 +1,5 @@
+"0",""
+"0","# circular tree map"
+"0","ggraph(graph, layout = ""circlepack"", weight = size) + "
+"0","  geom_node_circle(aes(fill = depth), size = 0.25, n = 50) + "
+"0","  coord_fixed()"

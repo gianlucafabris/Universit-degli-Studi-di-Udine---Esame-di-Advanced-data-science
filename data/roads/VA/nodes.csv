@@ -1,0 +1,88 @@
+county,id,city_name,lat,lon
+Suffolk,206528,Suffolk,36.7281341,-76.5834683
+Roanoke,206561,Roanoke,37.270973,-79.9414313
+Petersburg,206598,Petersburg,37.227928,-77.4019268
+Colonial Heights,206600,Colonial Heights,37.2555718,-77.4112016
+Alexandria,206637,Alexandria,38.8051095,-77.0470229
+Waynesboro,206651,Waynesboro,38.0686668,-78.8893999
+Lynchburg,206666,Lynchburg,37.4137536,-79.1422464
+Virginia Beach,206670,Virginia Beach,36.8496579,-75.9760751
+Chesapeake,206671,Chesapeake,36.7168315,-76.2494453
+Norfolk,206672,Norfolk,36.8493695,-76.2899539
+Portsmouth,206673,Portsmouth,36.8320081,-76.297699
+Harrisonburg,206857,Harrisonburg,38.4493315,-78.8688833
+Emporia,207036,Emporia (city),36.6937606,-77.5357141
+Winchester,207037,Winchester,39.1852184,-78.1652404
+Loudoun County,944948,Leesburg,39.1154506,-77.5645607
+Fairfax County,945043,Fairfax,38.8156356,-77.2836849
+Arlington County,962190,Arlington,38.8903961,-77.0841585
+Prince William County,1149984,Manassas,38.7509488,-77.4752667
+Stafford County,1149987,Stafford,38.4222681,-77.4084067
+Clarke County,1633325,Berryville,39.1517548,-77.982525
+Fauquier County,1633326,Warrenton,38.7135498,-77.795367
+Frederick County,1633327,Winchester,39.1852184,-78.1652404
+Fredericksburg,1633328,Fredericksburg,38.3031837,-77.4605399
+Louisa County,1633329,Louisa,38.0250438,-78.0035745
+Spotsylvania County,1633331,Spotsylvania Courthouse,38.2010057,-77.5891622
+Warren County,1633332,Front Royal,38.9178538,-78.1917718
+Charlottesville,2504948,Charlottesville,38.029306,-78.4766781
+Alleghany County,2532612,Covington,37.7934528,-79.9939484
+Amherst County,2532613,Amherst,37.5851412,-79.0514134
+Bedford County,2532615,Bedford,37.3344561,-79.5235083
+Bland County,2532616,Bland,37.1020628,-81.1162022
+Botetourt County,2532617,Fincastle,37.4993048,-79.8772619
+Buchanan County,2532618,Grundy,37.2783758,-82.0998105
+Campbell County,2532619,Rustburg,37.2768113,-79.1008543
+Carroll County,2532620,Hillsville,36.7662528,-80.7370242
+Franklin County,2532624,Rocky Mount,36.9962007,-79.8909474
+Giles County,2532625,Pearisburg,37.3265112,-80.7350712
+Henry County,2532628,Martinsville,36.6915262,-79.8725386
+Montgomery County,2532629,Christiansburg,37.1298517,-80.4089389
+Pittsylvania County,2532631,Chatham,36.8256943,-79.3980806
+Pulaski County,2532632,Pulaski,37.0478983,-80.7797935
+Roanoke County,2532633,Salem,37.293198,-80.0556773
+Rockbridge County,2532634,Lexington,37.7840208,-79.4428157
+Russell County,2532635,Lebanon,36.9009076,-82.0801257
+Scott County,2532636,Gate City,36.6378774,-82.5809876
+Smyth County,2532637,Marion,36.8331284,-81.519515
+Tazewell County,2532638,Tazewell,37.116249,-81.5194582
+Washington County,2532639,Abingdon,36.7104018,-81.975249
+Wise County,2532640,Wise,36.9759345,-82.5757108
+Wythe County,2532641,Wytheville,36.9479966,-81.0869747
+Albemarle County,2534163,Charlottesville,38.029306,-78.4766781
+Appomattox County,2534165,Appomattox,37.3535463,-78.8272687
+Augusta County,2534166,Staunton,38.1495947,-79.072557
+Brunswick County,2534167,Lawrenceville,36.7576469,-77.8469374
+Caroline County,2534169,Bowling Green,38.0498524,-77.3469994
+Charlotte County,2534171,Charlotte Court House,37.0565362,-78.638334
+Chesterfield County,2534172,Chesterfield,37.3777927,-77.5046698
+Culpeper County,2534173,Culpeper,38.4733823,-77.9961275
+Dinwiddie County,2534175,Dinwiddie,37.0779278,-77.586655
+Fluvanna County,2534177,Palmyra,37.8609747,-78.2633373
+Goochland County,2534179,Goochland,37.6824439,-77.884925
+Greensville County,2534181,Emporia,36.6859828,-77.5424808
+Hanover County,2534182,Hanover,37.766531,-77.3702584
+James City County,2534185,Williamsburg,37.2708788,-76.7074042
+Mecklenburg County,2534191,Boydton,36.6673066,-78.3882002
+Nelson County,2534193,Lovingston,37.759808,-78.8707518
+New Kent County,2534194,New Kent,37.5178648,-76.9783631
+Powhatan County,2534198,Powhatan,37.5420237,-77.9190619
+Prince Edward County,2534199,Farmville,37.3024713,-78.3923813
+Prince George County,2534200,Prince George,37.2204272,-77.288033
+Rockingham County,2534203,Harrisonburg,38.4493315,-78.8688833
+Shenandoah County,2534204,Woodstock,38.8817784,-78.5058429
+Southampton County,2534205,Courtland,36.7162613,-77.0680195
+Sussex County,2534207,Sussex,36.91515,-77.2791383
+Henrico County,3070728,Laurel,37.64266,-77.5087734
+Staunton,3864617,Staunton,38.1495947,-79.072557
+Bristol,3864677,Bristol,36.5959685,-82.1885009
+Danville,3864686,Danville,36.5879877,-79.3916713
+Franklin,3864687,Franklin,36.6776507,-76.9224609
+Hampton,3864703,Hampton,37.0264414,-76.3442846
+Newport News,3864704,Newport News,36.9775016,-76.42977
+York County,3864706,Yorktown,37.2378875,-76.5080633
+Richmond,3864712,Richmond,37.5385087,-77.43428
+Covington,5884638,Covington,37.7934528,-79.9939484
+Norton,7508928,Norton,36.9336934,-82.6298965
+Hopewell,8623880,Hopewell,37.3043154,-77.2872001
+Salem,9260621,Salem,37.293198,-80.0556773

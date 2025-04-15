@@ -1,0 +1,7 @@
+"0",""
+"0","# flare class hierarchy"
+"0","graph = tbl_graph(edges = flare$edges, nodes = flare$vertices)"
+"0",""
+"0","# dendrogram"
+"0","ggraph(graph, layout = ""dendrogram"") + "
+"0","  geom_edge_diagonal()"

@@ -1,0 +1,7 @@
+"0","r_a = assortativita(roads, as.numeric(factor(vertex.attributes(roads)$state)), degree(roads))"
+"0",""
+"0","print(paste(""assortatività: grado"", round(r_a$assortativityD[1],2)))"
+"1","[1]"
+"1"," ""assortatività: grado 0.14"""
+"1","
+"

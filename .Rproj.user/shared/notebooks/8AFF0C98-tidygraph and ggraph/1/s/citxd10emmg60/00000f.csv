@@ -1,0 +1,9 @@
+"0","# visualize communities of nodes"
+"0","dolphin %>% "
+"0","  activate(nodes) %>%"
+"0","  mutate(community = as.factor(group_louvain())) %>% "
+"0","  ggraph() + "
+"0","  geom_edge_link() + "
+"0","  geom_node_point(aes(colour = community), size = 5)"
+"1","[38;5;250mUsing [34m""stress""[38;5;250m as default layout[39m
+"

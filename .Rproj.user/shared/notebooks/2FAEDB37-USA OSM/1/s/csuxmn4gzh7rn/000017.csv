@@ -1,0 +1,2 @@
+"0","# plot dendrogram"
+"0","plot(r_cl$result[[1]])"

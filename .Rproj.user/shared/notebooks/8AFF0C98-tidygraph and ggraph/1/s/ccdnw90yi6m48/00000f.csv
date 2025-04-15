@@ -1,0 +1,25 @@
+"0","library(readr)"
+"0",""
+"0","nodes = read_csv(""dolphin_nodes.csv"")"
+"1","[1mRows: [22m[34m62[39m [1mColumns: [22m[34m2[39m
+"
+"1","[36m──[39m [1mColumn specification[22m [36m──────────────────────────────────────────────────────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m (2): name, sex
+"
+"1","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message.
+"
+"0","edges = read_csv(""dolphin_edges.csv"")"
+"1","[1mRows: [22m[34m159[39m [1mColumns: [22m[34m2[39m
+"
+"1","[36m──[39m [1mColumn specification[22m [36m──────────────────────────────────────────────────────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[32mdbl[39m (2): x, y
+"
+"1","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message.
+"
+"0","nodes"

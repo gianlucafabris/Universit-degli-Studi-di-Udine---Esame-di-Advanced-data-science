@@ -1,0 +1,5 @@
+"0",""
+"0","# rectangular tree map"
+"0","# notice the ""dynamic"" variable depth"
+"0","ggraph(graph, layout = ""treemap"", weight = size) + "
+"0","  geom_node_tile(aes(fill = depth), size = 0.25)"

@@ -1,0 +1,103 @@
+"0","rbs_sh = do.call(rbind, lapply(names(roads_by_state), function(state){
+  similarity_heterogeneity(roads_by_state[[state]], state)
+}))
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"
+"2","Avvertimento in cor(A):"
+"2"," la deviazione standard è zero
+"

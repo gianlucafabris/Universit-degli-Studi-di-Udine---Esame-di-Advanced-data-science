@@ -1,0 +1,7 @@
+"0",""
+"0","# circular dendrogram"
+"0","# notice the ""dynamic"" variable leaf"
+"0","ggraph(graph, layout = ""dendrogram"", circular = TRUE) + "
+"0","  geom_edge_diagonal() + "
+"0","  geom_node_point(aes(filter = leaf)) + "
+"0","  coord_fixed()"

@@ -1,0 +1,85 @@
+"0","library(tidyr)"
+"0","library(dplyr)"
+"2","
+Caricamento pacchetto: ‘dplyr’
+
+"
+"2","I seguenti oggetti sono mascherati da ‘package:stats’:
+
+    filter, lag
+
+"
+"2","I seguenti oggetti sono mascherati da ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+"
+"0","library(purrr)"
+"0","library(readr)"
+"0","library(stringr)"
+"0","library(moments)"
+"0","library(igraph)"
+"2","Avvertimento:"
+"2"," il pacchetto ‘igraph’ è stato creato con R versione 4.4.2
+"
+"2","
+Caricamento pacchetto: ‘igraph’
+
+"
+"2","I seguenti oggetti sono mascherati da ‘package:purrr’:
+
+    compose, simplify
+
+"
+"2","I seguenti oggetti sono mascherati da ‘package:dplyr’:
+
+    as_data_frame, groups, union
+
+"
+"2","Il seguente oggetto è mascherato da ‘package:tidyr’:
+
+    crossing
+
+"
+"2","I seguenti oggetti sono mascherati da ‘package:stats’:
+
+    decompose, spectrum
+
+"
+"2","Il seguente oggetto è mascherato da ‘package:base’:
+
+    union
+
+"
+"0","library(tidygraph)"
+"2","
+Caricamento pacchetto: ‘tidygraph’
+
+"
+"2","Il seguente oggetto è mascherato da ‘package:igraph’:
+
+    groups
+
+"
+"2","Il seguente oggetto è mascherato da ‘package:stats’:
+
+    filter
+
+"
+"0","library(ggraph)"
+"2","Caricamento del pacchetto richiesto: ggplot2
+"
+"0","library(sf)"
+"2","Avvertimento:"
+"2"," il pacchetto ‘sf’ è stato creato con R versione 4.4.2
+"
+"2","Linking to GEOS 3.12.2, GDAL 3.9.3, PROJ 9.4.1; sf_use_s2() is TRUE
+"
+"0","library(ggplot2)"
+"0",""
+"0","#nomi stati"
+"0","states = data.frame("
+"0","  name = c(""Alaska"", ""Alabama"", ""Arkansas"", ""Arizona"", ""California"", ""Colorado"", ""Connecticut"", ""Washington District of Columbia"", ""Delaware"", ""Florida"", ""Georgia"", ""Hawaii"", ""Iowa"", ""Idaho"", ""Illinois"", ""Indiana"", ""Kansas"", ""Kentucky"", ""Louisiana"", ""Massachusetts"", ""Maryland"", ""Maine"", ""Michigan"", ""Minnesota"", ""Missouri"", ""Mississippi"", ""Montana"", ""North Carolina"", ""North Dakota"", ""Nebraska"", ""New Hampshire"", ""New Jersey"", ""New Mexico"", ""Nevada"", ""New York"", ""Ohio"", ""Oklahoma"", ""Oregon"", ""Pennsylvania"", ""Rhode Island"", ""South Carolina"", ""South Dakota"", ""Tennessee"", ""Texas"", ""Utah"", ""Virginia"", ""Vermont"", ""Washington"", ""Wisconsin"", ""West Virginia"", ""Wyoming""),"
+"0","  abbr = c(""AK"", ""AL"", ""AR"", ""AZ"", ""CA"", ""CO"", ""CT"", ""DC"", ""DE"", ""FL"", ""GA"", ""HI"", ""IA"", ""ID"", ""IL"", ""IN"", ""KS"", ""KY"", ""LA"", ""MA"", ""MD"", ""ME"", ""MI"", ""MN"", ""MO"", ""MS"", ""MT"", ""NC"", ""ND"", ""NE"", ""NH"", ""NJ"", ""NM"", ""NV"", ""NY"", ""OH"", ""OK"", ""OR"", ""PA"", ""RI"", ""SC"", ""SD"", ""TN"", ""TX"", ""UT"", ""VA"", ""VT"", ""WA"", ""WI"", ""WV"", ""WY"")"
+"0",")"
+"0",""

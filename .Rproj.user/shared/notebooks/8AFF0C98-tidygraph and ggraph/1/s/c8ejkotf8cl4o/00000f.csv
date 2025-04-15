@@ -1,0 +1,12 @@
+"0","dolphin %>% "
+"0","  activate(nodes) %>%"
+"0","  mutate(pagerank = centrality_pagerank()) %>%"
+"0","  activate(edges) %>%"
+"0","  mutate(betweenness = centrality_edge_betweenness()) %>%"
+"0","  ggraph() +"
+"0","  geom_edge_link(aes(alpha = betweenness)) +"
+"0","  geom_node_point(aes(size = pagerank, colour = pagerank)) + "
+"0","  # discrete colour legend"
+"0","  scale_color_gradient(guide = ""legend"")"
+"1","[38;5;250mUsing [34m""stress""[38;5;250m as default layout[39m
+"

@@ -1,0 +1,7 @@
+"0",""
+"0","# basic plot"
+"0","ggraph(dolphin) + "
+"0","  geom_edge_link() + "
+"0","  geom_node_point()"
+"1","[38;5;250mUsing [34m""stress""[38;5;250m as default layout[39m
+"
